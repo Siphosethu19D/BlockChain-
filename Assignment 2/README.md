@@ -15,7 +15,7 @@
 ## What the Code Does
 The program demonstrates:
 
-Question 1: Implements a Block class with an index, timestamp, transactions, previous hash, nonce, and block hash.
-Question 2: Computes the block hash using all material fields and a canonical JSON serialisation before applying SHA-256.
-Question 3: Creates a genesis block and a subsequent block linked to it through the previous block's hash.
-Question 4: Demonstrates tamper evidence by changing a transaction and showing that the stored hash no longer matches the recomputed hash.
+- Question 1: Implements a Block class with an index, timestamp, transactions, previous hash, nonce, and block hash.
+- Question 2: Computes the block hash using all material fields and a canonical JSON serialisation before applying SHA-256.
+- Question 3: Creates a genesis block and a subsequent block linked to it through the previous block's hash.
+- Question 4: Demonstrates tamper evidence by changing a transaction and showing that the stored hash no longer matches the recomputed hash.

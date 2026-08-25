@@ -1,0 +1,10 @@
+Software Requirements
+
+- ecdsa >= 0.18.0
+
+Standard Library Modules Used
+
+- hashlib (SHA-256 hashing)
+- json (transaction serialization)
+- time (timestamps)
+- typing (type hints)
